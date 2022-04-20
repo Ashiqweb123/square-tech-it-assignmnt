@@ -1,0 +1,234 @@
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#navbar
+{
+    background-color:#8828FF ;
+}
+
+.login
+{
+    margin: 10px;
+    color: whitesmoke;
+}
+.started-btn
+{
+    border: 3px solid #8828FF;
+box-sizing: border-box;
+border-radius: 40px;
+width: 153px;
+height: 48px;
+color: white;
+}
+
+.button-info 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 10px;
+   
+}
+.button-info  .started-btn
+{
+    outline: #8828FF;
+}
+.button-info p
+{
+    padding: 30px;
+    color: aliceblue;
+}
+.connect-img img
+{
+    width: 578px;
+height: 531px;
+left: 120px;
+top: 1072px;
+margin-right: 10px;
+}
+.connect
+{
+    display: flex;
+    align-items: center;
+}
+
+.connect-text{
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+text-transform: capitalize;
+color: #20184E;
+}
+.button-text
+{
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 32px;
+color: #8828FF;
+width: 239px;
+height: 55px;
+background: #F8F2FF;
+border-radius: 40px
+}
+.chat-feature
+{
+    margin-top:15px;
+}
+.chat-apps
+{
+    display: flex;
+}
+.chat-apps img {
+width: 40px;
+height: 40px;
+}
+.box{
+width: 325px;
+height: 125px;
+left: 1107px;
+top: 1783px;
+padding: 20px;
+background: #FFFFFF;
+box-shadow: 15px 10px 40px #140B48;
+border-radius: 16px;
+margin: 30px;
+}
+.idea-box
+{
+      width: 500px;
+height: 225px;
+left: 1107px;
+top: 1783px;
+padding: 20px;
+border-radius: 10px;
+margin: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.date-img
+{
+    margin-right: 30px;
+}
+
+.name-time
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.package-heading
+{
+font-weight: 700;
+font-size: 38px;
+text-align: center;
+text-transform: capitalize;
+color: #20184E;
+}
+.package-title
+{
+font-weight: 400;
+font-size: 18px;
+text-align: center;
+color: #666666
+}
+.check-tick
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:788px;
+}
+.card-btn
+{
+    border: 2px solid #8828FF;
+    box-sizing: border-box;
+    border-radius: 50px;
+    width: 130px;
+    height: 38px;
+    color: #8828FF;
+}
+.card-btn:hover
+{
+    background-color:#8828FF ;
+    color: white;
+}
+.card
+{
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+ 
+}
+.card:hover
+{
+    background-color: #8828FF;
+    color:white;
+
+}
+.idea-generate
+{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#idea
+{
+    margin: 20px 0;
+}
+#join-freelancer
+{
+    background: #DEB5FF;
+}
+.join-now
+{
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 120%;
+text-transform: capitalize;
+color: #FFFFFF;
+padding: 40px;
+
+}
+.join-title
+{
+    text-align: center;
+    font-size: 18px;
+}
+
+.slider-box
+{
+width: 325px;
+height: 170px;
+padding: 10px;
+background: #FFFFFF;
+border-radius: 16px;
+margin: 20px;
+}
+
+footer
+{
+ width: 1440px;
+height: 830px;
+background: #260055;
+padding: 50px;
+top: 5676px;
+margin-top:10px;
+}
+.icon i
+{
+    height: 28px;
+    width:  28px;
+    color:white;
+}
